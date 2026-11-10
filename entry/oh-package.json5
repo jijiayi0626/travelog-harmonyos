@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "旅记应用入口模块",
+  "main": "",
+  "author": "travellog",
+  "license": "",
+  "dependencies": {}
+}

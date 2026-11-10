@@ -1,0 +1,624 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Travel diary entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Travel diary entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Travelog"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "Used for check-ins to record your footprints"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "Used for future cloud sync of travel records"
+    },
+    {
+      "name": "tab_trips",
+      "value": "Trips"
+    },
+    {
+      "name": "tab_footprints",
+      "value": "Footprints"
+    },
+    {
+      "name": "tab_expenses",
+      "value": "Ledger"
+    },
+    {
+      "name": "tab_profile",
+      "value": "Me"
+    },
+    {
+      "name": "action_create",
+      "value": "Create"
+    },
+    {
+      "name": "action_save",
+      "value": "Save"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "action_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "action_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "action_add",
+      "value": "Add"
+    },
+    {
+      "name": "action_done",
+      "value": "Done"
+    },
+    {
+      "name": "action_retry",
+      "value": "Retry"
+    },
+    {
+      "name": "action_more",
+      "value": "More"
+    },
+    {
+      "name": "empty_trips",
+      "value": "No trips yet"
+    },
+    {
+      "name": "empty_trips_hint",
+      "value": "Tap the corner to record your first trip"
+    },
+    {
+      "name": "empty_moments",
+      "value": "No moments yet"
+    },
+    {
+      "name": "empty_moments_hint",
+      "value": "Capture this moment with photos and words"
+    },
+    {
+      "name": "empty_expenses",
+      "value": "No expenses yet"
+    },
+    {
+      "name": "empty_checklist",
+      "value": "Checklist is empty"
+    },
+    {
+      "name": "empty_footprints",
+      "value": "No footprints yet"
+    },
+    {
+      "name": "empty_members",
+      "value": "No companions yet"
+    },
+    {
+      "name": "trip_list_title",
+      "value": "My Trips"
+    },
+    {
+      "name": "trip_create_title",
+      "value": "New Trip"
+    },
+    {
+      "name": "trip_edit_title",
+      "value": "Edit Trip"
+    },
+    {
+      "name": "trip_detail_title",
+      "value": "Trip Detail"
+    },
+    {
+      "name": "trip_title_label",
+      "value": "Trip name"
+    },
+    {
+      "name": "trip_title_placeholder",
+      "value": "e.g. Hokkaido Summer"
+    },
+    {
+      "name": "trip_destination_label",
+      "value": "Destination"
+    },
+    {
+      "name": "trip_destination_placeholder",
+      "value": "e.g. Japan · Hokkaido"
+    },
+    {
+      "name": "trip_date_label",
+      "value": "Dates"
+    },
+    {
+      "name": "trip_note_label",
+      "value": "Notes"
+    },
+    {
+      "name": "trip_note_placeholder",
+      "value": "Write something…"
+    },
+    {
+      "name": "trip_start_date",
+      "value": "Start date"
+    },
+    {
+      "name": "trip_end_date",
+      "value": "End date"
+    },
+    {
+      "name": "trip_status_ongoing",
+      "value": "Ongoing"
+    },
+    {
+      "name": "trip_status_planned",
+      "value": "Planned"
+    },
+    {
+      "name": "trip_status_finished",
+      "value": "Completed"
+    },
+    {
+      "name": "trip_days_format",
+      "value": "%d days"
+    },
+    {
+      "name": "trip_moments_format",
+      "value": "%d moments"
+    },
+    {
+      "name": "trip_no_date",
+      "value": "No dates"
+    },
+    {
+      "name": "trip_overview",
+      "value": "Overview"
+    },
+    {
+      "name": "detail_tab_timeline",
+      "value": "Timeline"
+    },
+    {
+      "name": "detail_tab_expense",
+      "value": "Ledger"
+    },
+    {
+      "name": "detail_tab_checklist",
+      "value": "Checklist"
+    },
+    {
+      "name": "detail_tab_members",
+      "value": "Companions"
+    },
+    {
+      "name": "moment_add",
+      "value": "Add moment"
+    },
+    {
+      "name": "moment_edit",
+      "value": "Edit moment"
+    },
+    {
+      "name": "moment_content_label",
+      "value": "Moment"
+    },
+    {
+      "name": "moment_content_placeholder",
+      "value": "Capture the mood and story…"
+    },
+    {
+      "name": "moment_location_label",
+      "value": "Place"
+    },
+    {
+      "name": "moment_location_placeholder",
+      "value": "e.g. Otaru Canal"
+    },
+    {
+      "name": "moment_photo_label",
+      "value": "Photos"
+    },
+    {
+      "name": "moment_add_photo",
+      "value": "Add photo"
+    },
+    {
+      "name": "moment_day_format",
+      "value": "Day %d"
+    },
+    {
+      "name": "moment_day_unknown",
+      "value": "Ungrouped"
+    },
+    {
+      "name": "moment_empty_day",
+      "value": "No moments on this day"
+    },
+    {
+      "name": "expense_add",
+      "value": "Add expense"
+    },
+    {
+      "name": "expense_edit",
+      "value": "Edit expense"
+    },
+    {
+      "name": "expense_total",
+      "value": "Total spent"
+    },
+    {
+      "name": "expense_amount_label",
+      "value": "Amount"
+    },
+    {
+      "name": "expense_amount_placeholder",
+      "value": "0.00"
+    },
+    {
+      "name": "expense_category_label",
+      "value": "Category"
+    },
+    {
+      "name": "expense_note_label",
+      "value": "Note"
+    },
+    {
+      "name": "expense_note_placeholder",
+      "value": "e.g. Dinner · Seafood BBQ"
+    },
+    {
+      "name": "expense_date_label",
+      "value": "Date"
+    },
+    {
+      "name": "expense_by_category",
+      "value": "By category"
+    },
+    {
+      "name": "expense_count_format",
+      "value": "%d items"
+    },
+    {
+      "name": "expense_currency",
+      "value": "¥"
+    },
+    {
+      "name": "expense_all_trips",
+      "value": "All trips"
+    },
+    {
+      "name": "category_food",
+      "value": "Food"
+    },
+    {
+      "name": "category_transport",
+      "value": "Transport"
+    },
+    {
+      "name": "category_stay",
+      "value": "Stay"
+    },
+    {
+      "name": "category_ticket",
+      "value": "Tickets"
+    },
+    {
+      "name": "category_shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "category_other",
+      "value": "Other"
+    },
+    {
+      "name": "checklist_title",
+      "value": "Checklist"
+    },
+    {
+      "name": "checklist_add_placeholder",
+      "value": "Add an item…"
+    },
+    {
+      "name": "checklist_progress_format",
+      "value": "%d/%d done"
+    },
+    {
+      "name": "checklist_tip",
+      "value": "Tick everything before you go"
+    },
+    {
+      "name": "footprint_title",
+      "value": "My Footprints"
+    },
+    {
+      "name": "footprint_checkin",
+      "value": "Check in"
+    },
+    {
+      "name": "footprint_checkin_title",
+      "value": "Check-in"
+    },
+    {
+      "name": "footprint_place_label",
+      "value": "Place name"
+    },
+    {
+      "name": "footprint_place_placeholder",
+      "value": "e.g. Mount Hakodate"
+    },
+    {
+      "name": "footprint_city_label",
+      "value": "City"
+    },
+    {
+      "name": "footprint_city_placeholder",
+      "value": "e.g. Hakodate"
+    },
+    {
+      "name": "footprint_note_label",
+      "value": "Note"
+    },
+    {
+      "name": "footprint_visited_format",
+      "value": "%d places checked in"
+    },
+    {
+      "name": "footprint_city_format",
+      "value": "%d cities"
+    },
+    {
+      "name": "footprint_locate",
+      "value": "Use current location"
+    },
+    {
+      "name": "footprint_locating",
+      "value": "Locating…"
+    },
+    {
+      "name": "footprint_locate_failed",
+      "value": "Locating failed, enter the place manually"
+    },
+    {
+      "name": "footprint_permission_denied",
+      "value": "Location permission denied, enter the place manually"
+    },
+    {
+      "name": "footprint_coords_format",
+      "value": "%.4f, %.4f"
+    },
+    {
+      "name": "footprint_map_tip",
+      "value": "Tap a footprint to view it on the map"
+    },
+    {
+      "name": "profile_title",
+      "value": "Me"
+    },
+    {
+      "name": "profile_current_user",
+      "value": "Current user"
+    },
+    {
+      "name": "profile_edit_profile",
+      "value": "Edit profile"
+    },
+    {
+      "name": "profile_sync_title",
+      "value": "Cloud sync"
+    },
+    {
+      "name": "profile_sync_not_configured",
+      "value": "Not connected"
+    },
+    {
+      "name": "profile_sync_hint",
+      "value": "Data is stored locally. Connect a backend to enable sharing."
+    },
+    {
+      "name": "profile_data_stats",
+      "value": "Statistics"
+    },
+    {
+      "name": "profile_stat_trips",
+      "value": "Trips"
+    },
+    {
+      "name": "profile_stat_moments",
+      "value": "Moments"
+    },
+    {
+      "name": "profile_stat_footprints",
+      "value": "Footprints"
+    },
+    {
+      "name": "profile_stat_expenses",
+      "value": "Expenses"
+    },
+    {
+      "name": "profile_members_title",
+      "value": "Companions"
+    },
+    {
+      "name": "profile_members_hint",
+      "value": "Share one trip with others"
+    },
+    {
+      "name": "profile_about",
+      "value": "About Travelog"
+    },
+    {
+      "name": "profile_about_desc",
+      "value": "Record your journeys, keep the views and costs."
+    },
+    {
+      "name": "account_title",
+      "value": "Account"
+    },
+    {
+      "name": "account_local",
+      "value": "Local account"
+    },
+    {
+      "name": "account_nickname_label",
+      "value": "Nickname"
+    },
+    {
+      "name": "account_nickname_placeholder",
+      "value": "Give yourself a name"
+    },
+    {
+      "name": "account_multi_tip",
+      "value": "Sharing requires a cloud account. Currently a local profile."
+    },
+    {
+      "name": "sync_title",
+      "value": "Cloud Sync"
+    },
+    {
+      "name": "sync_status",
+      "value": "Status"
+    },
+    {
+      "name": "sync_local_only",
+      "value": "Local only"
+    },
+    {
+      "name": "sync_not_configured",
+      "value": "Backend not configured"
+    },
+    {
+      "name": "sync_contract_title",
+      "value": "Sync API contract"
+    },
+    {
+      "name": "sync_contract_desc",
+      "value": "The client talks to the backend via SyncService. Switch to RemoteTravelRepository to connect."
+    },
+    {
+      "name": "sync_pending",
+      "value": "Pending changes"
+    },
+    {
+      "name": "sync_last_time",
+      "value": "Last synced"
+    },
+    {
+      "name": "sync_never",
+      "value": "Never"
+    },
+    {
+      "name": "sync_now",
+      "value": "Sync now"
+    },
+    {
+      "name": "sync_result_local",
+      "value": "Nothing to sync in local mode"
+    },
+    {
+      "name": "sync_pending_format",
+      "value": "%d items"
+    },
+    {
+      "name": "members_title",
+      "value": "Companions"
+    },
+    {
+      "name": "members_add",
+      "value": "Add companion"
+    },
+    {
+      "name": "members_name_label",
+      "value": "Companion name"
+    },
+    {
+      "name": "members_name_placeholder",
+      "value": "Enter companion name"
+    },
+    {
+      "name": "members_role_owner",
+      "value": "Owner"
+    },
+    {
+      "name": "members_role_member",
+      "value": "Member"
+    },
+    {
+      "name": "members_invite_format",
+      "value": "Invite code: %s"
+    },
+    {
+      "name": "members_copy",
+      "value": "Copy invite code"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Delete"
+    },
+    {
+      "name": "dialog_delete_msg",
+      "value": "This cannot be undone. Delete it?"
+    },
+    {
+      "name": "toast_saved",
+      "value": "Saved"
+    },
+    {
+      "name": "toast_deleted",
+      "value": "Deleted"
+    },
+    {
+      "name": "toast_required",
+      "value": "Please fill the required fields"
+    },
+    {
+      "name": "toast_photo_failed",
+      "value": "Failed to save the image"
+    },
+    {
+      "name": "toast_copied",
+      "value": "Invite code copied"
+    },
+    {
+      "name": "toast_amount_invalid",
+      "value": "Enter a valid amount"
+    },
+    {
+      "name": "toast_sync_local",
+      "value": "No cloud backend in local mode"
+    },
+    {
+      "name": "title_select_date",
+      "value": "Select date"
+    },
+    {
+      "name": "unit_day",
+      "value": "days"
+    },
+    {
+      "name": "unit_yuan",
+      "value": "CNY"
+    },
+    {
+      "name": "default_user_name",
+      "value": "Me"
+    },
+    {
+      "name": "default_trip_title",
+      "value": "My first trip"
+    },
+    {
+      "name": "subtitle_trips",
+      "value": "Every journey, kept"
+    }
+  ]
+}

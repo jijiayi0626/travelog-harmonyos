@@ -1,0 +1,10 @@
+{
+  "name": "travellog",
+  "version": "1.0.0",
+  "description": "旅记 - 旅行记录应用",
+  "main": "",
+  "author": "travellog",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,624 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "旅记应用入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "旅记主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "旅记"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "用于旅行地点打卡，记录你的足迹"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于后续云端同步旅行记录"
+    },
+    {
+      "name": "tab_trips",
+      "value": "行程"
+    },
+    {
+      "name": "tab_footprints",
+      "value": "足迹"
+    },
+    {
+      "name": "tab_expenses",
+      "value": "账本"
+    },
+    {
+      "name": "tab_profile",
+      "value": "我的"
+    },
+    {
+      "name": "action_create",
+      "value": "新建"
+    },
+    {
+      "name": "action_save",
+      "value": "保存"
+    },
+    {
+      "name": "action_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "action_delete",
+      "value": "删除"
+    },
+    {
+      "name": "action_edit",
+      "value": "编辑"
+    },
+    {
+      "name": "action_add",
+      "value": "添加"
+    },
+    {
+      "name": "action_done",
+      "value": "完成"
+    },
+    {
+      "name": "action_retry",
+      "value": "重试"
+    },
+    {
+      "name": "action_more",
+      "value": "更多"
+    },
+    {
+      "name": "empty_trips",
+      "value": "还没有旅行记录"
+    },
+    {
+      "name": "empty_trips_hint",
+      "value": "点击右上角，记录你的第一段旅程"
+    },
+    {
+      "name": "empty_moments",
+      "value": "还没有图文记录"
+    },
+    {
+      "name": "empty_moments_hint",
+      "value": "用照片和文字留住这一刻"
+    },
+    {
+      "name": "empty_expenses",
+      "value": "还没有记账"
+    },
+    {
+      "name": "empty_checklist",
+      "value": "清单是空的"
+    },
+    {
+      "name": "empty_footprints",
+      "value": "还没有足迹"
+    },
+    {
+      "name": "empty_members",
+      "value": "还没有添加旅伴"
+    },
+    {
+      "name": "trip_list_title",
+      "value": "我的旅行"
+    },
+    {
+      "name": "trip_create_title",
+      "value": "新建旅行"
+    },
+    {
+      "name": "trip_edit_title",
+      "value": "编辑旅行"
+    },
+    {
+      "name": "trip_detail_title",
+      "value": "旅行详情"
+    },
+    {
+      "name": "trip_title_label",
+      "value": "旅行名称"
+    },
+    {
+      "name": "trip_title_placeholder",
+      "value": "例如：北海道夏日之旅"
+    },
+    {
+      "name": "trip_destination_label",
+      "value": "目的地"
+    },
+    {
+      "name": "trip_destination_placeholder",
+      "value": "例如：日本 · 北海道"
+    },
+    {
+      "name": "trip_date_label",
+      "value": "起止日期"
+    },
+    {
+      "name": "trip_note_label",
+      "value": "旅行备注"
+    },
+    {
+      "name": "trip_note_placeholder",
+      "value": "写点什么…"
+    },
+    {
+      "name": "trip_start_date",
+      "value": "开始日期"
+    },
+    {
+      "name": "trip_end_date",
+      "value": "结束日期"
+    },
+    {
+      "name": "trip_status_ongoing",
+      "value": "进行中"
+    },
+    {
+      "name": "trip_status_planned",
+      "value": "计划中"
+    },
+    {
+      "name": "trip_status_finished",
+      "value": "已结束"
+    },
+    {
+      "name": "trip_days_format",
+      "value": "共 %d 天"
+    },
+    {
+      "name": "trip_moments_format",
+      "value": "%d 条记录"
+    },
+    {
+      "name": "trip_no_date",
+      "value": "未设置日期"
+    },
+    {
+      "name": "trip_overview",
+      "value": "旅行概览"
+    },
+    {
+      "name": "detail_tab_timeline",
+      "value": "时间线"
+    },
+    {
+      "name": "detail_tab_expense",
+      "value": "账本"
+    },
+    {
+      "name": "detail_tab_checklist",
+      "value": "清单"
+    },
+    {
+      "name": "detail_tab_members",
+      "value": "旅伴"
+    },
+    {
+      "name": "moment_add",
+      "value": "添加记录"
+    },
+    {
+      "name": "moment_edit",
+      "value": "编辑记录"
+    },
+    {
+      "name": "moment_content_label",
+      "value": "这一刻"
+    },
+    {
+      "name": "moment_content_placeholder",
+      "value": "记录下此刻的心情和故事…"
+    },
+    {
+      "name": "moment_location_label",
+      "value": "地点"
+    },
+    {
+      "name": "moment_location_placeholder",
+      "value": "例如：小樽运河"
+    },
+    {
+      "name": "moment_photo_label",
+      "value": "照片"
+    },
+    {
+      "name": "moment_add_photo",
+      "value": "添加照片"
+    },
+    {
+      "name": "moment_day_format",
+      "value": "第 %d 天"
+    },
+    {
+      "name": "moment_day_unknown",
+      "value": "未分组"
+    },
+    {
+      "name": "moment_empty_day",
+      "value": "这一天还没有记录"
+    },
+    {
+      "name": "expense_add",
+      "value": "记一笔"
+    },
+    {
+      "name": "expense_edit",
+      "value": "编辑账目"
+    },
+    {
+      "name": "expense_total",
+      "value": "总支出"
+    },
+    {
+      "name": "expense_amount_label",
+      "value": "金额"
+    },
+    {
+      "name": "expense_amount_placeholder",
+      "value": "0.00"
+    },
+    {
+      "name": "expense_category_label",
+      "value": "分类"
+    },
+    {
+      "name": "expense_note_label",
+      "value": "备注"
+    },
+    {
+      "name": "expense_note_placeholder",
+      "value": "例如：晚餐 · 海鲜烧烤"
+    },
+    {
+      "name": "expense_date_label",
+      "value": "日期"
+    },
+    {
+      "name": "expense_by_category",
+      "value": "分类统计"
+    },
+    {
+      "name": "expense_count_format",
+      "value": "%d 笔"
+    },
+    {
+      "name": "expense_currency",
+      "value": "¥"
+    },
+    {
+      "name": "expense_all_trips",
+      "value": "全部旅行"
+    },
+    {
+      "name": "category_food",
+      "value": "餐饮"
+    },
+    {
+      "name": "category_transport",
+      "value": "交通"
+    },
+    {
+      "name": "category_stay",
+      "value": "住宿"
+    },
+    {
+      "name": "category_ticket",
+      "value": "门票"
+    },
+    {
+      "name": "category_shopping",
+      "value": "购物"
+    },
+    {
+      "name": "category_other",
+      "value": "其他"
+    },
+    {
+      "name": "checklist_title",
+      "value": "行前清单"
+    },
+    {
+      "name": "checklist_add_placeholder",
+      "value": "添加一项待办…"
+    },
+    {
+      "name": "checklist_progress_format",
+      "value": "已完成 %d/%d"
+    },
+    {
+      "name": "checklist_tip",
+      "value": "出发前把该带的都勾上"
+    },
+    {
+      "name": "footprint_title",
+      "value": "我的足迹"
+    },
+    {
+      "name": "footprint_checkin",
+      "value": "打卡"
+    },
+    {
+      "name": "footprint_checkin_title",
+      "value": "地点打卡"
+    },
+    {
+      "name": "footprint_place_label",
+      "value": "地点名称"
+    },
+    {
+      "name": "footprint_place_placeholder",
+      "value": "例如：函馆山"
+    },
+    {
+      "name": "footprint_city_label",
+      "value": "城市"
+    },
+    {
+      "name": "footprint_city_placeholder",
+      "value": "例如：函馆"
+    },
+    {
+      "name": "footprint_note_label",
+      "value": "备注"
+    },
+    {
+      "name": "footprint_visited_format",
+      "value": "已打卡 %d 个地点"
+    },
+    {
+      "name": "footprint_city_format",
+      "value": "%d 座城市"
+    },
+    {
+      "name": "footprint_locate",
+      "value": "获取当前位置"
+    },
+    {
+      "name": "footprint_locating",
+      "value": "定位中…"
+    },
+    {
+      "name": "footprint_locate_failed",
+      "value": "定位失败，请手动填写地点"
+    },
+    {
+      "name": "footprint_permission_denied",
+      "value": "未获得定位权限，可手动填写地点"
+    },
+    {
+      "name": "footprint_coords_format",
+      "value": "%.4f, %.4f"
+    },
+    {
+      "name": "footprint_map_tip",
+      "value": "点击足迹可在地图中查看"
+    },
+    {
+      "name": "profile_title",
+      "value": "我的"
+    },
+    {
+      "name": "profile_current_user",
+      "value": "当前用户"
+    },
+    {
+      "name": "profile_edit_profile",
+      "value": "编辑资料"
+    },
+    {
+      "name": "profile_sync_title",
+      "value": "云同步"
+    },
+    {
+      "name": "profile_sync_not_configured",
+      "value": "未连接云端"
+    },
+    {
+      "name": "profile_sync_hint",
+      "value": "数据保存在本机，接入后端即可开启多人共享"
+    },
+    {
+      "name": "profile_data_stats",
+      "value": "数据统计"
+    },
+    {
+      "name": "profile_stat_trips",
+      "value": "旅行"
+    },
+    {
+      "name": "profile_stat_moments",
+      "value": "记录"
+    },
+    {
+      "name": "profile_stat_footprints",
+      "value": "足迹"
+    },
+    {
+      "name": "profile_stat_expenses",
+      "value": "账目"
+    },
+    {
+      "name": "profile_members_title",
+      "value": "旅伴"
+    },
+    {
+      "name": "profile_members_hint",
+      "value": "多人共享同一段旅行"
+    },
+    {
+      "name": "profile_about",
+      "value": "关于旅记"
+    },
+    {
+      "name": "profile_about_desc",
+      "value": "记录旅程，收藏风景与花费。"
+    },
+    {
+      "name": "account_title",
+      "value": "账号"
+    },
+    {
+      "name": "account_local",
+      "value": "本地账号"
+    },
+    {
+      "name": "account_nickname_label",
+      "value": "昵称"
+    },
+    {
+      "name": "account_nickname_placeholder",
+      "value": "给自己起个名字"
+    },
+    {
+      "name": "account_multi_tip",
+      "value": "多人共享需要云端账号，当前为本地档案"
+    },
+    {
+      "name": "sync_title",
+      "value": "云同步"
+    },
+    {
+      "name": "sync_status",
+      "value": "状态"
+    },
+    {
+      "name": "sync_local_only",
+      "value": "仅本地"
+    },
+    {
+      "name": "sync_not_configured",
+      "value": "未配置后端"
+    },
+    {
+      "name": "sync_contract_title",
+      "value": "同步接口契约"
+    },
+    {
+      "name": "sync_contract_desc",
+      "value": "客户端通过 SyncService 与后端交互，接入时替换为 RemoteTravelRepository 即可。"
+    },
+    {
+      "name": "sync_pending",
+      "value": "待同步数据"
+    },
+    {
+      "name": "sync_last_time",
+      "value": "上次同步"
+    },
+    {
+      "name": "sync_never",
+      "value": "从未同步"
+    },
+    {
+      "name": "sync_now",
+      "value": "立即同步"
+    },
+    {
+      "name": "sync_result_local",
+      "value": "本地模式无云端可同步"
+    },
+    {
+      "name": "sync_pending_format",
+      "value": "%d 条"
+    },
+    {
+      "name": "members_title",
+      "value": "旅伴"
+    },
+    {
+      "name": "members_add",
+      "value": "添加旅伴"
+    },
+    {
+      "name": "members_name_label",
+      "value": "旅伴昵称"
+    },
+    {
+      "name": "members_name_placeholder",
+      "value": "输入旅伴昵称"
+    },
+    {
+      "name": "members_role_owner",
+      "value": "创建者"
+    },
+    {
+      "name": "members_role_member",
+      "value": "成员"
+    },
+    {
+      "name": "members_invite_format",
+      "value": "邀请码：%s"
+    },
+    {
+      "name": "members_copy",
+      "value": "复制邀请码"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "确认删除"
+    },
+    {
+      "name": "dialog_delete_msg",
+      "value": "删除后不可恢复，确定删除吗？"
+    },
+    {
+      "name": "toast_saved",
+      "value": "已保存"
+    },
+    {
+      "name": "toast_deleted",
+      "value": "已删除"
+    },
+    {
+      "name": "toast_required",
+      "value": "请填写必填项"
+    },
+    {
+      "name": "toast_photo_failed",
+      "value": "图片保存失败"
+    },
+    {
+      "name": "toast_copied",
+      "value": "邀请码已复制"
+    },
+    {
+      "name": "toast_amount_invalid",
+      "value": "请输入正确的金额"
+    },
+    {
+      "name": "toast_sync_local",
+      "value": "本地模式暂无云端可同步"
+    },
+    {
+      "name": "title_select_date",
+      "value": "选择日期"
+    },
+    {
+      "name": "unit_day",
+      "value": "天"
+    },
+    {
+      "name": "unit_yuan",
+      "value": "元"
+    },
+    {
+      "name": "default_user_name",
+      "value": "我"
+    },
+    {
+      "name": "default_trip_title",
+      "value": "我的第一次旅行"
+    },
+    {
+      "name": "subtitle_trips",
+      "value": "记录每一段旅程"
+    }
+  ]
+}

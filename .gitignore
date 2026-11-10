@@ -1,0 +1,16 @@
+# HarmonyOS / DevEco
+/node_modules
+/oh_modules
+/.hvigor
+/.idea
+/local.properties
+/build
+**/build/
+**/.cxx/
+**/.preview/
+**/oh_modules/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
